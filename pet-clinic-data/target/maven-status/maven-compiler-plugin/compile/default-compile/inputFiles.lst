@@ -1,5 +1,5 @@
-/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
-/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
-/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
-/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
-/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
+/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/model/Person.java
+/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/model/Pet.java
+/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/model/Owner.java
+/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/model/Vet.java
+/Users/wenboye/Documents/spring_guru/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/model/PetType.java
